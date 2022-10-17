@@ -1,0 +1,5 @@
+#ignore data folder
+__*__/
+**/data
+__pycache__/
+
